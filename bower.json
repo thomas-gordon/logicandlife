@@ -1,0 +1,32 @@
+{
+  "name": "logicandlife",
+  "version": "2.0.0",
+  "authors": [
+    "Thomas Gordon <thomasgordon02@gmail.com>"
+  ],
+  "description": "Logic and life, life and logic on jekyll.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "blog"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.logicandlife.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "simple-jekyll-search": "~1.0.1",
+    "bootstrap-sass-official": "~3.3.1"
+  },
+  "devDependencies": {
+    "simple-jekyll-search": "~1.0.1",
+    "bootstrap-sass-official": "~3.3.1"
+  }
+}

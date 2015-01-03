@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="search">
+      <input type="text" class="search__input" id="searchMe">
+      <div id="resultMe" class="search__results"></div>
+    </div>
+    
+    <div class="page-content">
+      <div class="wrapper" id="">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+  <script src="/js/jekyll-search.js"></script>
+  <script src="/js/site.js"></script>
+
+</html>
