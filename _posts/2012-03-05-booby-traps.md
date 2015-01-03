@@ -11,6 +11,7 @@ aktt_tweeted:
   - 1
 robotsmeta:
   - index,follow
+phonetic: Majumbo party
 ---
 A dark wave was pushing one of the only unmanned vessels across the largest ocean in the world, the east pacific ocean. The captain; who was a satin bower bird of noble upbringing and almost negligible  post traumatic disorder, was standing at the stern of the boat passing down orders to the shipmates which were a rag tag crew of younger bower birds, all having eaten each others wings in a late night bush brawl.
 

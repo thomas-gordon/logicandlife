@@ -11,6 +11,7 @@ aktt_tweeted:
   - 1
 robotsmeta:
   - index,follow
+phonetic: Brubber hangerwhats
 ---
 Travelling in a car is all about creating and maintaining a proper sense of balance. Cars tip over more frequently than people so it&#8217;s kind of essential. When you get into the vehicle it&#8217;s important that you plant two feet firmly in place so your butt doesn&#8217;t fall out of the window. You have to fight the immense force of the car&#8217;s lean at all times which is why cars have passenger seats instead of just lining everyone up like in a fighter jet (Aeroplanes have an innate sense of balance, they never trip over neither!).
 

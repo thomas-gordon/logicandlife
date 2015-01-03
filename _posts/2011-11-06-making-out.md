@@ -11,6 +11,7 @@ aktt_tweeted:
   - 1
 robotsmeta:
   - index,follow
+phonetic: Mayking mout
 ---
 If you&#8217;re at a social gathering where saliva is encouraged it&#8217;s often the case that someone, somewhere inside the building&#8230; is making out. They aren&#8217;t making out like they aren&#8217;t kissing, they&#8217;re acting as though the kissing is of a higher public and symbolic value by referring to it as &#8220;making out&#8221;. If you&#8217;ve got your tongue in the vicinity of another person&#8217;s tongue your mind is constantly wondering if your attempt at mouthal coitus is going beyond the standard and commonly desexualised &#8220;kiss&#8221;. You are making out to the other person that you are better at sex than you probably aren&#8217;t.
 

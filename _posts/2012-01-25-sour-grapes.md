@@ -13,6 +13,7 @@ aktt_tweeted:
   - 1
 robotsmeta:
   - index,follow
+phonetic: Shour Graipes
 ---
 Your average $10 bottle of wine is distilled from alcohol and tanning residue. It&#8217;s bottled cheaply, coloured and then labelled as something it&#8217;s not. The whole practice takes place in silence because for some reason it&#8217;s a social faux pas to disturb it. The more expensive wine is mixed with some kind of **secret dirt** so when it&#8217;s &#8216;decunted&#8217; everyone is impressed at just  how clean it comes out of the bottle despite the layer of crud seemingly mixed in with it all.
 

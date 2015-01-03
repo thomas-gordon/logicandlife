@@ -2,23 +2,19 @@
 layout: default
 ---
 
-<div class="home">
-
-  <p>Welcome! Everything is ok. You've struck upon a site filled with definitions
-    for words or philosophy that is unclear. Enjoy!</p>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="post-list posts">
+	{% for post in site.posts limit:10 %}
+	<article class="post-list__item">
+		<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+			<span class="post-meta">#{{ post.idNumber }}</span>
+			<span class="post-social"></span>
+			<h2>
+				{{ post.title }}
+			</h2>
+			<p class="post-phonetically"><i class="fa fa-info-circle"></i> <i class="fa fa-volume-up"></i> <em>["{{ post.phonetic }}"]</em></p>
+		</a>
+	</article>
+	{% endfor %}
 </div>
 
-<ul class="post-list">
-	{% for post in site.posts %}
-	<li class="post-list__item">
-		<span class="post-meta">#{{ post.idNumber }}</span>
-
-		<h2>
-			<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-		</h2>
-	</li>
-	{% endfor %}
-</ul>
+<div class="infinite-spinner"></div>

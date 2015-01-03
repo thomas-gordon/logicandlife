@@ -7,6 +7,7 @@ idNumber:
   - 199
 robotsmeta:
   - index,follow
+phonetic: "Polble Botched"
 ---
 I recently received a pebble watch after allowing myself to purchase one via kickstarter ages ago. A pebble watch is a &#8216;smart&#8217;-watch, meaning that it can connect with your phone to display notifications and inform you of the things that phones can&#8217;t. The watch itself is round, with gritty edges to sharpen knives on. Apparently it won&#8217;t implode even down to 50 metres beneath the earth&#8217;s crust but given it&#8217;s a rock I assume it&#8217;d probably be fine if you wanted to take it on an oil drill expedition or similar.
 

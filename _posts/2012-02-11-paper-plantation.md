@@ -11,6 +11,7 @@ aktt_tweeted:
   - 1
 robotsmeta:
   - index,follow
+phonetic: Piper pipe farm
 ---
 The environmental degradation of the planet is seemingly never ending. The newspaper is constantly going on about how every action has a negative consequence on everything green. Never mind that green is the universally accepted colour of &#8220;bile&#8221; or &#8220;illness&#8221;, we can&#8217;t seem to stop trying to make as many green things exist or continue to exist. Recycling is seen as a way to curb our never-ending destructive ways yet for most the irony is lost.
 

@@ -11,6 +11,7 @@ aktt_tweeted:
   - 1
 robotsmeta:
   - index,follow
+phonetic: The Cozzmozz
 ---
 The Cosmos is vast. Ever lasting. Recently reading through all of Hawking&#8217;s books in the last four hours I&#8217;ve come to realise that we are just small, cumbrous pieces in the grand scheme of things. There is absolutely no relevance to anything we do. That said, what is relevant is timely and as the universe is old it&#8217;s old news. This means the knowledge of being irrelevant is completely useless to us practically. It&#8217;s like saying &#8220;I&#8217;m glad I got to work because if the dinosaurs were alive I might&#8217;ve been eaten&#8217;ve.
 

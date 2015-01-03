@@ -11,6 +11,7 @@ aktt_tweeted:
   - 1
 robotsmeta:
   - index,follow
+phonetic: Splerts
 ---
 There is little doubt that all humans do is stare at gaps. We get worried when there are gaps in the ceiling. Gaps between doors. Gaps in our relationships. Spaces between drinks. Brief interludes between heroin trips. It&#8217;s all just worrying about gaps. Heterosexual men worry about vaginas because they are complex and not penises. Women worry about penises because if they&#8217;re revealed to be cut in half when the pants cut off the correct half is hard to choose.
 

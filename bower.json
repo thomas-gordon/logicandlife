@@ -23,10 +23,14 @@
   ],
   "dependencies": {
     "simple-jekyll-search": "~1.0.1",
-    "bootstrap-sass-official": "~3.3.1"
+    "bootstrap-sass-official": "~3.3.1",
+    "bourbon": "~4.1.0",
+    "font-awesome": "~4.2.0"
   },
   "devDependencies": {
     "simple-jekyll-search": "~1.0.1",
-    "bootstrap-sass-official": "~3.3.1"
+    "bootstrap-sass-official": "~3.3.1",
+    "bourbon": "~4.1.0",
+    "font-awesome": "~4.2.0"
   }
 }

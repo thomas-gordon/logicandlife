@@ -11,6 +11,7 @@ idNumber:
   - 176
 robotsmeta:
   - index,follow
+phonetic: Pharrell
 ---
 I stare at numbers at least 20min a day. I cut them out of the newspaper, lay them all out on the floor and wonder if any of them are irrelevant. No number is. All numbers matter to someone. Think about all those times you counted to 9 only to realise that the next step being 10 involved two numbers, both of which when added together equate to significantly less than 9. Positivity is a lot like numbers. If you have a number that isn&#8217;t negative, you have a positive number. Specifically note that:
 

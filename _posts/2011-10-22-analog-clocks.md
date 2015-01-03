@@ -11,6 +11,7 @@ aktt_tweeted:
   - 1
 robotsmeta:
   - index,follow
+phonetic: Yanalog Nigital
 ---
 The face of an object is always flat. The face of a person is not flat unless they really like pressing it against glass really hard because they&#8217;re inquisitive as to something behind the glass like a puppy. In fact the capacity for a person to flatten their face hasn&#8217;t been well enough documented. There is no rhyme or reason as to why we have facial features that stick out like craggly rocks from the lemming cliff.
 

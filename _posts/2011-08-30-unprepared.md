@@ -11,6 +11,7 @@ aktt_tweeted:
   - 1
 robotsmeta:
   - index,follow
+phonetic: Un-porprarad
 ---
 As I recently got hacked (I&#8217;m still giddy with excitement about that one!) I have decided to prepare a manual about unpreparing, or &#8220;being unprepared&#8221; for all of you orwellian purists. It is the nature of the psyche to become more aware about something after it has happened to you. If you are waiting for the bus you are unprepared for its arrival. You can guess where to stand but odds are all the other school kids will end up laughing at your stupid face as the bus pulls up 3 metres away from where you&#8217;re standing. You can pretend that you were staring at your phone or thinking so hard that you couldn&#8217;t walk but let&#8217;s face it Joe, you **fucked up. **
 

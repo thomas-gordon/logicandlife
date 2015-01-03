@@ -50,8 +50,14 @@ module.exports = function (grunt) {
 
 
             html: {
+                options:{
+                    livereload:true,
+                    spawn: false
+                },
                 files: [
-                    '*.html',
+                    '**/*.html',
+                    '!bower_components/**/*.html',
+                    '!node_modules/**/*.html',
                     '!_site/**/*.html',
                     '*.yml',
                     'js/**.js',

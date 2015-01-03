@@ -7,6 +7,8 @@ idNumber:
   - 201
 robotsmeta:
   - index,follow
+phonetic: "Aunt-oler-ants"
+comments: true
 ---
 Gather around the fire children, for I have a tale for you.  The year was sixty-three or thereabouts.. I can&#8217;t recall if it was nineteen sixty-three or twenty one sixty-three. Not relevant, we weren&#8217;t born yesterday! So our protagonist is a child named Ellie. For years she had grown up in a house made of bricks. The kind that catches the eye on a bored sunday while walking the obligatory animal. The garden was wide. About forty five feet wide. It was easy to tell the width of the garden from watching Ellie&#8217;s face and counting her freckles. 1,2,3, four freckles. 1,2,3,4 feet of yard.
 
